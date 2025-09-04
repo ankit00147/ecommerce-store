@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Mouse",
+    "price": 799,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "p2",
+    "name": "Mechanical Keyboard",
+    "price": 2499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "p3",
+    "name": "USB-C Charger 45W",
+    "price": 1299,
+    "category": "Power",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "p4",
+    "name": "Noise Cancelling Headphones",
+    "price": 3999,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1518444122231-d0400c207f9b?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "p5",
+    "name": "Smartwatch",
+    "price": 3499,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1519345178453-4b1c0bca9f23?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "p6",
+    "name": "1080p Web Camera",
+    "price": 1899,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?q=80&w=800&auto=format&fit=crop"
+  }
+]
